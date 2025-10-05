@@ -14,3 +14,7 @@ Key Benefits:
 1.	Enhanced Efficiency: Rapid access to information and documentation, reducing time spent on manual searches.
 2.	Data Security: On-premises setup ensures confidentiality and compliance with internal data security standards and minimizes external dependencies.
 3. Centralized Access: Consolidates resources, making documents easily accessible to all users. (Will be done once GPU based Server is set up)
+
+<img width="948" height="369" alt="image" src="https://github.com/user-attachments/assets/c408c164-e8dd-44fe-82e7-f6be2f8ff63e" />
+
+<img width="948" height="383" alt="image" src="https://github.com/user-attachments/assets/4ac108d6-5233-47ef-8206-b76d4fd75ee6" />

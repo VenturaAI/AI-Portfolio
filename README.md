@@ -11,13 +11,13 @@ I specialize in building intelligent systems — from Retrieval-Augmented Genera
 
 ## 🚀 Featured AI Projects
 
-### 🔹 [RAG Document Chatbot](projects/RAG_DocBot)
+### 🔹 [RAG Document Chatbot](projects/RAG DocBot)
 **Tech Stack:** LangChain, Qdrant, LLaMA 3, Streamlit  
 **Overview:** Multi-user RAG chatbot that lets each user upload PDFs and get context-aware answers.
 
 ---
 
-### 🔹 [Driver Drowsiness Detection System](projects/Drowsiness_Detection)
+### 🔹 [Driver Drowsiness Detection System](projects/eyeDrive- Drowsiness Detection)
 **Tech Stack:** YOLOv10, TensorFlow Lite, Edge AI
 **Overview:** Real-time driver drowsiness detection using YOLOv8 and deployed on Seeed Grove Vision AI.
 

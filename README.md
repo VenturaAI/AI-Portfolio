@@ -17,7 +17,7 @@ I specialize in building intelligent systems — from Retrieval-Augmented Genera
 
 ---
 
-### 🔹 [Driver Drowsiness Detection System](projects/eyeDrive- Driver Dowsiness detection)
+### 🔹 [Driver Drowsiness Detection System](projects/Driver_Drowsiness_Detection_System)
 **Tech Stack:** YOLOv10, TensorFlow Lite, Edge AI
 **Overview:** Real-time driver drowsiness detection using YOLOv8 and deployed on Seeed Grove Vision AI.
 

@@ -19,7 +19,11 @@ Context: Road Accident Stats: In India, According to data provided by the Yamuna
 
 
 Methodology:
+
 •	Capture video from smartphone camera
+
 •	Use the model to detect driver fatigue.
+
 •	Ring an alarm on drowsiness detection. It uses Model such as Inception V3 and Yolov10 in background to identify the regions of interest.
+
 •	The architecture is scalable to include taking other actions - such as sending notifications, calling an emergency number in case of continuous warnings.

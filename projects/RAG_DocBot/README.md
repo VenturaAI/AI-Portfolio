@@ -2,6 +2,9 @@ Developed state of the art project for building RAG (Retrieval-Augmented Generat
 The DocBot streamline document question answering, and context-aware search functionalities, enhancing access to resources and operational efficiency for my organization.
 
 <img width="948" height="369" alt="image" src="https://github.com/user-attachments/assets/c408c164-e8dd-44fe-82e7-f6be2f8ff63e" />
+## 🎥 Demo
+
+<video src="NH_DocBot_v5.mp4" controls width="600"></video>
 
 Technology Stack:
 1. AI Model: LLaMA 3.2 (Latest version: 3B).

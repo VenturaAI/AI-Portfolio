@@ -9,7 +9,7 @@ I specialize in building intelligent systems — from Retrieval-Augmented Genera
 
 ---
 
-## 🚀 Featured AI Projects
+## 🚀 Featured AI Projects 🚀🚀
 
 ### 🔹 [RAG Document Chatbot](projects/RAG_DocBot)
 **Tech Stack:** LangChain, Qdrant, LLaMA 3, Streamlit  

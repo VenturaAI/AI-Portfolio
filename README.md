@@ -31,6 +31,7 @@ choice of the user. The agent has router network which decides what actions and 
 
 The prompt is based on STT (Speech to Text) from the user and TTS (Text to speech) responses are returned from the JARVIS: AI conversational agent. It uses state of art and latest deepseek ML models that are run using ollama on the edge device with GPU.
 This project is currently in progress.
+
 ---
 
 ## 🧾 Certifications

@@ -23,10 +23,14 @@ I specialize in building intelligent systems — from Retrieval-Augmented Genera
 
 ---
 
-### 🔹 [Ayurveda AI Assistant](projects/Ayurveda_AI_Assistant)
-**Tech Stack:** LLaMA 3, LoRA Fine-tuning, Hindi/Sanskrit dataset  
-**Overview:** Fine-tuned AI model for Ayurvedic wellness recommendations in multiple Indian languages.
+### 🔹 [JarVIS: AI AGent and Assistant](projects/Ayurveda_AI_Assistant)
+**Tech Stack:** DeepSeek R1, , AI Agents framework such as LangChain, LangGraph, CrewAI, Ollama
+**Overview:** .
+Developed an AI Agent (JARVIS) that can do variety of task such as searching on the internet, making math calculations, Opening music player and playing different songs as per
+choice of the user. The agent has router network which decides what actions and what function to call depending on the prompt from the user.
 
+The prompt is based on STT (Speech to Text) from the user and TTS (Text to speech) responses are returned from the JARVIS: AI conversational agent. It uses state of art and latest deepseek ML models that are run using ollama on the edge device with GPU.
+This project is currently in progress.
 ---
 
 ## 🧾 Certifications

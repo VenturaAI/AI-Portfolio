@@ -25,6 +25,7 @@ I specialize in building intelligent systems — from Retrieval-Augmented Genera
 
 ### 🔹 [JarVIS: AI AGent and Assistant](projects/Ayurveda_AI_Assistant)
 **Tech Stack:** DeepSeek R1, , AI Agents framework such as LangChain, LangGraph, CrewAI, Ollama
+
 **Overview:** .
 Developed an AI Agent (JARVIS) that can do variety of task such as searching on the internet, making math calculations, Opening music player and playing different songs as per
 choice of the user. The agent has router network which decides what actions and what function to call depending on the prompt from the user.

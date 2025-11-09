@@ -34,7 +34,10 @@ The prompt is based on STT (Speech to Text) from the user and TTS (Text to speec
 This project is currently in progress.
 
 ---
-
+### 🔹 [AyurGenix: AI based Ayurvedic Assistant](projects/Fine tuned Ayurvedic Chat Assistant)
+**Tech Stack:** LoRA, DeepSeek-Qwen, Gradio, PyTorch, BitsAndBytes
+**Overview:** Fine-tuned Ayurvedic chat assistant that provides personalized, symptom-based herbal and lifestyle recommendations using classical Ayurveda principles.
+ 
 ## 🧾 Certifications
 
 | Platform | Certification | Link |
